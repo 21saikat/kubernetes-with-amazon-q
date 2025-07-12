@@ -57,6 +57,10 @@ uvx kubernetes-mcp-server@latest
 🌐 http://localhost:8081 → Online Shop App
 
 
+<img width="1400" height="741" alt="image" src="https://github.com/user-attachments/assets/1221851c-0270-4ef9-8b43-c3a26005abbb" />
+
+
+
 
 
 👨‍💻 Author
